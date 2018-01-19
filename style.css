@@ -1,0 +1,43 @@
+
+.titre
+{color: silver;}
+
+.sous-titre
+{color: silver;}
+
+P
+{font-size: 1.2em;}    
+
+*
+{font-family: Arial, Comic Sans MS;}
+
+.manger-bouger
+{font-weight: bold;}
+
+.info-manger-bouger
+{text-decoration: underline;}
+
+h1
+{text-align: center;}
+
+body
+{background-image: url("fond-ecran-noir.jpg");}
+
+*
+{color: white;}
+
+.titre
+{ border-top: 3px white double;
+border-bottom:3px white double;
+box-shadow: 6px 6px 6px white;
+text-shadow: 4px 6px 10px white;}
+
+a:hover/*quand on pointe sur un lien*/
+{text-decoration: none;
+color: white;
+font-weight: bold;}
+
+a:visited
+{ color: gray;}
+
+img {text-align: center;}

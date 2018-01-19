@@ -1,0 +1,65 @@
+.header {
+    text-align: center;
+
+    border-radius: 20px;
+    width: 100%;
+    background: linear-gradient(to right, #AEB1B2, #AEB1B2);
+
+}
+
+.nav-section {
+    display: flex;
+}
+
+.nav {
+
+    width: 20%;
+    height: 20%;
+    margin: 25px;
+    border-radius: 20px;
+    background: linear-gradient(to right, #AEB1B2, #AEB1B2);
+}
+
+.sectiontotale {
+
+    width: 80%;
+    margin: 25px;
+    padding: 25px;
+    border-radius: 20px;
+    background: linear-gradient(to right, #AEB1B2, #AEB1B2);
+}
+
+@font-face {
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+
+* {
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+
+footer {
+
+    width: 100%;
+    margin-top: 25px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 20px;
+    background: linear-gradient(to right, #AEB1B2, #AEB1B2)
+}
+
+body {
+    background-color: #f2f2f2;
+    color: white;
+}
+
+a {
+    color: white;
+
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
